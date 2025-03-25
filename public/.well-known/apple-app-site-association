@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6JDBJGSF3P.app.epam.reactnative.lab",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
